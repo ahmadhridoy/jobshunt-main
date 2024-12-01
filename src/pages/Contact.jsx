@@ -136,14 +136,14 @@ const Contact = () => {
 
         <Center bgImage={`url(${contactImage})`} minH={80}>
           <SimpleGrid columns={{ base: '2', md: '2' }} gap={{ base: 12 }}>
-            <Link to="https://www.linkedin.com/in/shafayetur-rahman/">
+            <Link to="https://www.linkedin.com/in/ridoy-syl/">
               <FaLinkedinIn size={40} color="black" />
             </Link>
-            <Link to="https://github.com/11Shafayet/">
+            <Link to="https://github.com/ahmadhridoy/">
               <FaGithub color="black" size={40} _hover={{ color: 'brand' }} />
             </Link>
             <Link
-              to="https://www.instagram.com/md.shafayetur_rahman/"
+              to=""
               color="black"
             >
               <FaInstagram

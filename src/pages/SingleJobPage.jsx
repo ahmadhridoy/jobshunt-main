@@ -217,7 +217,7 @@ const SingleJobPage = () => {
                     <Text mb={2}>Your Name*</Text>
                     <Input
                       type="text"
-                      placeholder="Shafayetur Rahman"
+                      placeholder="Ridoy"
                       w="full"
                       minH="50px"
                       _focus={{
@@ -239,7 +239,7 @@ const SingleJobPage = () => {
                     <Text mb={2}>Your Email*</Text>
                     <Input
                       type="email"
-                      placeholder="11shafayet@gmail.com"
+                      placeholder="bodoruddin.syl1@gmail.com"
                       w="full"
                       minH="50px"
                       _focus={{
@@ -261,7 +261,7 @@ const SingleJobPage = () => {
                     <Text mb={2}>Your Phone*</Text>
                     <Input
                       type="number"
-                      placeholder="+880-1638-719578"
+                      placeholder="+880-1724037184"
                       w="full"
                       minH="50px"
                       _focus={{
