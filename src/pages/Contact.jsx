@@ -77,7 +77,7 @@ const Contact = () => {
               If you'd like to talk about a potential project or just say hi,
               send me a message or email me at{' '}
               <Text as="span" opacity={1} fontWeight="bold" color="black">
-                11shafayet@gmail.com!
+                bodoruddin.syl1@gmail.com
               </Text>
             </Text>
 
