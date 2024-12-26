@@ -40,11 +40,11 @@ const Navbar = () => {
           >
             <Flex justify="center" align="center" letterSpacing={1} gap={2}>
               <FaPhoneAlt />
-              +8801638-719578
+              +8801724-037184
             </Flex>
             <Flex justify="center" align="center" letterSpacing={1} gap={2}>
               <FaEnvelope />
-              11shafayet@gmail.com
+              bodoruddin.syl1@gmail.com
             </Flex>
           </Flex>
         </Container>

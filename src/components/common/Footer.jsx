@@ -27,7 +27,7 @@ const Footer = () => {
           <Divider bg="brand" my={6} />
           <Text opacity={0.75} align="center">
             {`Copyright ©2023 All rights reserved | This template is made with 🤍 by`}{' '}
-            <b>Shafayet</b>
+            <b>Ridoy</b>
           </Text>
         </div>
       </Container>
