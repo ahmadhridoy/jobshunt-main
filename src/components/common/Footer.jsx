@@ -14,13 +14,13 @@ const Footer = () => {
             className="uppercase mb-6 text-2xl"
           >{`Let's get in touch`}</Text>
           <Flex align="center" justify="center" columnGap={4}>
-            <Link to="https://www.facebook.com/11Shafayet/">
+            <Link to="https://www.facebook.com/hri.ahm/">
               <FaFacebookF size={20} />
             </Link>
-            <Link to="https://www.linkedin.com/in/shafayetur-rahman/">
+            <Link to="https://www.linkedin.com/in/ridoy-syl/">
               <FaLinkedinIn size={20} />
             </Link>
-            <Link to="https://github.com/11Shafayet">
+            <Link to="https://github.com/ahmadhridoy">
               <FaGithub size={20} />
             </Link>
           </Flex>

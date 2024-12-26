@@ -15,8 +15,8 @@ import { ChakraProvider, extendTheme } from '@chakra-ui/react';
 // 2. Call `extendTheme` and pass your custom values
 const theme = extendTheme({
   colors: {
-    brand: '#E92F39',
-    secondary: '#e92f391c',
+    brand: '#1ACB93',
+    secondary: '#1ACB9317',
   },
   styles: {
     global: {
