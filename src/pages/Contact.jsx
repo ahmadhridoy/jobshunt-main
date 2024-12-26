@@ -142,7 +142,7 @@ const Contact = () => {
             <Link to="https://github.com/ahmadhridoy/">
               <FaGithub color="black" size={40} _hover={{ color: 'brand' }} />
             </Link>
-            <Link
+            {/* <Link
               to=""
               color="black"
             >
@@ -151,10 +151,10 @@ const Contact = () => {
                 size={40}
                 _hover={{ color: 'brand' }}
               />
-            </Link>
-            <Link to="https://dribbble.com/11Shafayet">
+            </Link> */}
+            {/* <Link to="">
               <FaDribbble color="black" size={40} _hover={{ color: 'brand' }} />
-            </Link>
+            </Link> */}
           </SimpleGrid>
         </Center>
       </SimpleGrid>
